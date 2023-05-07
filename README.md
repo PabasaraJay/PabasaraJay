@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/659a91ae49a4694e36f3f67a36b94a1a4830e26b720db094aa15e79c8c9ddece/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966" width="300" height="200"/>
 </div>
-<div align="center"><h3>👋 Hi, I'm Pabasara Jayamanne -IT21058950 </h3>🌱 Currently learning MERN<br>⚡ Fun fact : I'm very Enthusiastic & Energetic </div>
+<div align="center"><h3>👋 Hi, I'm Pabasara Jayamanne -IT21058950 </h3>🎓 Undergraduate at Sri Lanka Institute of Information Technology<br>🌱 Currently learning MERN<br>⚡ Fun fact : I'm very Enthusiastic & Energetic </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PabasaraJay&icon=5&color=3)](https://visitcount.itsvg.in)
