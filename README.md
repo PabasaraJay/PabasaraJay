@@ -7,7 +7,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PabasaraJay&icon=5&color=3)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 <p align="left">
 <a href="https://twitter.com/pabasara_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pabasara_j" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pabasara jayamanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabasara jayamanne" height="30" width="40" /></a>
