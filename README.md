@@ -42,9 +42,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PabasaraJay&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PabasaraJay&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabasaraJay&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabasarajay&show_icons=true&locale=en&layout=compact" alt="pabasarajay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabasarajay&show_icons=true&locale=en" alt="pabasarajay" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabasarajay&" alt="pabasarajay" /></p>
 
 
 
