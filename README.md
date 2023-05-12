@@ -44,8 +44,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pabasarajay&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pabasarajay&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabasarajay&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabasarajay&langs_count=8&theme=vue-dark&hide_border=false)](https://github.com/pabasarajay/github-readme-stats)
 
 
 
