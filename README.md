@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" width="300" height="200"/>
 </div>
-<div align="center"><h2>👋 Hi, I'm Pabasara Jayamanne -IT21058950 </h2>🎓 Undergraduate at Sri Lanka Institute of Information Technology<br>🌱 Currently learning <b>React-Native</b> & <b>Python</b><br> 📫 You can reach me at <a href=mailto:pabasaramadhumalj@gmail.com>pabasaramadhumalj@gmail.com<a></div>
+<div align="center"><h2>👋 Hi, I'm Pabasara Jayamanne -IT21058950 </h2>🎓 Undergraduate at Sri Lanka Institute of Information Technology<br>🌱 Currently learning <b>React-Native</b> & <b>Playwright</b><br> 📫 You can reach me at <a href=mailto:pabasaramadhumalj@gmail.com>pabasaramadhumalj@gmail.com<a></div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PabasaraJay&icon=5&color=3)](https://visitcount.itsvg.in)
